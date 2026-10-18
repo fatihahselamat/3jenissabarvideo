@@ -1,0 +1,442 @@
+[
+ {
+  "start": 0.0,
+  "end": 6.26,
+  "text": " Pernahkah kita terfikir, mengapa Allah menekankan sifat sabar dalam surah Al-Asr?",
+  "words": [
+   {
+    "w": " Pernahkah",
+    "s": 0.0,
+    "e": 0.8
+   },
+   {
+    "w": " kita",
+    "s": 0.8,
+    "e": 1.1
+   },
+   {
+    "w": " terfikir,",
+    "s": 1.1,
+    "e": 1.74
+   },
+   {
+    "w": " mengapa",
+    "s": 2.14,
+    "e": 2.76
+   },
+   {
+    "w": " Allah",
+    "s": 2.76,
+    "e": 3.1
+   },
+   {
+    "w": " menekankan",
+    "s": 3.1,
+    "e": 3.84
+   },
+   {
+    "w": " sifat",
+    "s": 3.84,
+    "e": 4.24
+   },
+   {
+    "w": " sabar",
+    "s": 4.24,
+    "e": 4.74
+   },
+   {
+    "w": " dalam",
+    "s": 4.74,
+    "e": 5.06
+   },
+   {
+    "w": " surah",
+    "s": 5.06,
+    "e": 5.5
+   },
+   {
+    "w": " Al",
+    "s": 5.5,
+    "e": 5.74
+   },
+   {
+    "w": "-Asr?",
+    "s": 5.74,
+    "e": 6.26
+   }
+  ]
+ },
+ {
+  "start": 6.74,
+  "end": 9.36,
+  "text": " Sabar terbagi kepada 3 jenis.",
+  "words": [
+   {
+    "w": " Sabar",
+    "s": 6.74,
+    "e": 7.38
+   },
+   {
+    "w": " terbagi",
+    "s": 7.38,
+    "e": 7.98
+   },
+   {
+    "w": " kepada",
+    "s": 7.98,
+    "e": 8.2
+   },
+   {
+    "w": " 3",
+    "s": 8.2,
+    "e": 8.78
+   },
+   {
+    "w": " jenis.",
+    "s": 8.78,
+    "e": 9.36
+   }
+  ]
+ },
+ {
+  "start": 9.8,
+  "end": 12.02,
+  "text": " Pertama, sabar dalam ketaatan.",
+  "words": [
+   {
+    "w": " Pertama,",
+    "s": 9.8,
+    "e": 10.16
+   },
+   {
+    "w": " sabar",
+    "s": 10.74,
+    "e": 11.1
+   },
+   {
+    "w": " dalam",
+    "s": 11.1,
+    "e": 11.4
+   },
+   {
+    "w": " ketaatan.",
+    "s": 11.4,
+    "e": 12.02
+   }
+  ]
+ },
+ {
+  "start": 12.58,
+  "end": 15.44,
+  "text": " Tetap istikomah beribadah walaupun terasa berat.",
+  "words": [
+   {
+    "w": " Tetap",
+    "s": 12.58,
+    "e": 13.0
+   },
+   {
+    "w": " istikomah",
+    "s": 13.0,
+    "e": 13.64
+   },
+   {
+    "w": " beribadah",
+    "s": 13.64,
+    "e": 14.3
+   },
+   {
+    "w": " walaupun",
+    "s": 14.3,
+    "e": 14.82
+   },
+   {
+    "w": " terasa",
+    "s": 14.82,
+    "e": 15.12
+   },
+   {
+    "w": " berat.",
+    "s": 15.12,
+    "e": 15.44
+   }
+  ]
+ },
+ {
+  "start": 15.94,
+  "end": 18.38,
+  "text": " Kedua, sabar menjauhimang siat.",
+  "words": [
+   {
+    "w": " Kedua,",
+    "s": 15.94,
+    "e": 16.32
+   },
+   {
+    "w": " sabar",
+    "s": 16.8,
+    "e": 17.3
+   },
+   {
+    "w": " menjauhimang",
+    "s": 17.3,
+    "e": 18.1
+   },
+   {
+    "w": " siat.",
+    "s": 18.1,
+    "e": 18.38
+   }
+  ]
+ },
+ {
+  "start": 18.84,
+  "end": 22.12,
+  "text": " Menahan diri daripada melakukan perkara yang dilarang Allah.",
+  "words": [
+   {
+    "w": " Menahan",
+    "s": 18.84,
+    "e": 19.28
+   },
+   {
+    "w": " diri",
+    "s": 19.28,
+    "e": 19.78
+   },
+   {
+    "w": " daripada",
+    "s": 19.78,
+    "e": 20.14
+   },
+   {
+    "w": " melakukan",
+    "s": 20.14,
+    "e": 20.58
+   },
+   {
+    "w": " perkara",
+    "s": 20.58,
+    "e": 21.16
+   },
+   {
+    "w": " yang",
+    "s": 21.16,
+    "e": 21.34
+   },
+   {
+    "w": " dilarang",
+    "s": 21.34,
+    "e": 21.88
+   },
+   {
+    "w": " Allah.",
+    "s": 21.88,
+    "e": 22.12
+   }
+  ]
+ },
+ {
+  "start": 22.8,
+  "end": 25.08,
+  "text": " Ketiga, sabar menghadapi ujian.",
+  "words": [
+   {
+    "w": " Ketiga,",
+    "s": 22.8,
+    "e": 23.18
+   },
+   {
+    "w": " sabar",
+    "s": 23.68,
+    "e": 24.16
+   },
+   {
+    "w": " menghadapi",
+    "s": 24.16,
+    "e": 24.66
+   },
+   {
+    "w": " ujian.",
+    "s": 24.66,
+    "e": 25.08
+   }
+  ]
+ },
+ {
+  "start": 25.66,
+  "end": 29.38,
+  "text": " Tetap redor dan tidak berputus asa ketika ditimpa kesusahan.",
+  "words": [
+   {
+    "w": " Tetap",
+    "s": 25.66,
+    "e": 26.1
+   },
+   {
+    "w": " redor",
+    "s": 26.1,
+    "e": 26.48
+   },
+   {
+    "w": " dan",
+    "s": 26.48,
+    "e": 26.7
+   },
+   {
+    "w": " tidak",
+    "s": 26.7,
+    "e": 26.94
+   },
+   {
+    "w": " berputus",
+    "s": 26.94,
+    "e": 27.48
+   },
+   {
+    "w": " asa",
+    "s": 27.48,
+    "e": 27.9
+   },
+   {
+    "w": " ketika",
+    "s": 27.9,
+    "e": 28.38
+   },
+   {
+    "w": " ditimpa",
+    "s": 28.38,
+    "e": 28.86
+   },
+   {
+    "w": " kesusahan.",
+    "s": 28.86,
+    "e": 29.38
+   }
+  ]
+ },
+ {
+  "start": 29.38,
+  "end": 35.88,
+  "text": " Ingatlah, dalam surah Al-Asr, Allah mengingatkan kita supaya saling berpesan dengan kesabaran.",
+  "words": [
+   {
+    "w": " Ingatlah,",
+    "s": 29.38,
+    "e": 30.56
+   },
+   {
+    "w": " dalam",
+    "s": 30.94,
+    "e": 31.18
+   },
+   {
+    "w": " surah",
+    "s": 31.18,
+    "e": 31.54
+   },
+   {
+    "w": " Al",
+    "s": 31.54,
+    "e": 31.7
+   },
+   {
+    "w": "-Asr,",
+    "s": 31.7,
+    "e": 32.1
+   },
+   {
+    "w": " Allah",
+    "s": 32.28,
+    "e": 32.46
+   },
+   {
+    "w": " mengingatkan",
+    "s": 32.46,
+    "e": 33.26
+   },
+   {
+    "w": " kita",
+    "s": 33.26,
+    "e": 33.54
+   },
+   {
+    "w": " supaya",
+    "s": 33.54,
+    "e": 34.06
+   },
+   {
+    "w": " saling",
+    "s": 34.06,
+    "e": 34.6
+   },
+   {
+    "w": " berpesan",
+    "s": 34.6,
+    "e": 35.12
+   },
+   {
+    "w": " dengan",
+    "s": 35.12,
+    "e": 35.3
+   },
+   {
+    "w": " kesabaran.",
+    "s": 35.3,
+    "e": 35.88
+   }
+  ]
+ },
+ {
+  "start": 36.32,
+  "end": 40.32,
+  "text": " Kerana sabar adalah kunci menuju kejayaan dunia dan akhirat.",
+  "words": [
+   {
+    "w": " Kerana",
+    "s": 36.32,
+    "e": 36.78
+   },
+   {
+    "w": " sabar",
+    "s": 36.78,
+    "e": 37.24
+   },
+   {
+    "w": " adalah",
+    "s": 37.24,
+    "e": 37.58
+   },
+   {
+    "w": " kunci",
+    "s": 37.58,
+    "e": 38.24
+   },
+   {
+    "w": " menuju",
+    "s": 38.24,
+    "e": 38.62
+   },
+   {
+    "w": " kejayaan",
+    "s": 38.62,
+    "e": 39.22
+   },
+   {
+    "w": " dunia",
+    "s": 39.22,
+    "e": 39.7
+   },
+   {
+    "w": " dan",
+    "s": 39.7,
+    "e": 39.84
+   },
+   {
+    "w": " akhirat.",
+    "s": 39.84,
+    "e": 40.32
+   }
+  ]
+ }
+]
